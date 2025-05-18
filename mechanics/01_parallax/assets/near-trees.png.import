@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://p3fmtguwybvk"
-path="res://.godot/imported/myst.png-45b554add2515b3dde4397840f502c6c.ctex"
+uid="uid://cyn4c7byod2rk"
+path="res://.godot/imported/near-trees.png-c5910395d6871a74bdfdacb648bb317d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/myst.png"
-dest_files=["res://.godot/imported/myst.png-45b554add2515b3dde4397840f502c6c.ctex"]
+source_file="res://mechanics/01_parallax/assets/near-trees.png"
+dest_files=["res://.godot/imported/near-trees.png-c5910395d6871a74bdfdacb648bb317d.ctex"]
 
 [params]
 

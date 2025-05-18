@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dp02vdaaqsnpn"
-path="res://.godot/imported/far-mountains.png-19b22f4964ec3ecd2b4dfc6c66422776.ctex"
+uid="uid://p3fmtguwybvk"
+path="res://.godot/imported/myst.png-d339873481b8404d0d6e5b454e6cea4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/far-mountains.png"
-dest_files=["res://.godot/imported/far-mountains.png-19b22f4964ec3ecd2b4dfc6c66422776.ctex"]
+source_file="res://mechanics/01_parallax/assets/myst.png"
+dest_files=["res://.godot/imported/myst.png-d339873481b8404d0d6e5b454e6cea4b.ctex"]
 
 [params]
 

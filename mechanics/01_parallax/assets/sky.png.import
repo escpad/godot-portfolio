@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ry8wvbx4elyd"
-path="res://.godot/imported/Soldier.png-d974afa00abb3407eb64f1defb94a66d.ctex"
+uid="uid://bn5xe2ndx40qm"
+path="res://.godot/imported/sky.png-003c0d3d1501468cf2675000301c8f53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/Soldier.png"
-dest_files=["res://.godot/imported/Soldier.png-d974afa00abb3407eb64f1defb94a66d.ctex"]
+source_file="res://mechanics/01_parallax/assets/sky.png"
+dest_files=["res://.godot/imported/sky.png-003c0d3d1501468cf2675000301c8f53.ctex"]
 
 [params]
 

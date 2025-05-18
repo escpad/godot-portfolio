@@ -14,7 +14,7 @@ config/name="godot-portfolio"
 run/main_scene="uid://cm13i2ib5latj"
 run/disable_stdout=true
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://bn5xe2ndx40qm"
 
 [display]
 

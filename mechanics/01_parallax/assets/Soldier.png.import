@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyn4c7byod2rk"
-path="res://.godot/imported/near-trees.png-ef243ae7285029a0840b3dc540acb92a.ctex"
+uid="uid://ry8wvbx4elyd"
+path="res://.godot/imported/Soldier.png-693744d703506fd3e6c2f41cbb8e750d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/near-trees.png"
-dest_files=["res://.godot/imported/near-trees.png-ef243ae7285029a0840b3dc540acb92a.ctex"]
+source_file="res://mechanics/01_parallax/assets/Soldier.png"
+dest_files=["res://.godot/imported/Soldier.png-693744d703506fd3e6c2f41cbb8e750d.ctex"]
 
 [params]
 
