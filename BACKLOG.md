@@ -1,6 +1,7 @@
 # Sprint Backlog
+- [✅] Parallax Background
 - [ ] Jump Buffer & Coyote Time
-- [ ] Parallax Background + Camera Shake
+- [ ] Camera Shake
 - [ ] Top-Down Click-to-Move Navigation
 - [ ] Inventory Grid + Drag-Drop
 - [ ] Basic Enemy Patrol AI

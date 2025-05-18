@@ -1,4 +1,4 @@
-# [Mechanic Name] – Week [#] Dev-Log
+# [2D Parallax] – Week [1] Dev-Log
 ![Demo](docs/01_parallax.gif)
 
 ## Goal
