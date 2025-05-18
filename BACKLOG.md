@@ -1,0 +1,11 @@
+# Sprint Backlog
+- [ ] Jump Buffer & Coyote Time
+- [ ] Parallax Background + Camera Shake
+- [ ] Top-Down Click-to-Move Navigation
+- [ ] Inventory Grid + Drag-Drop
+- [ ] Basic Enemy Patrol AI
+- [ ] Pause Menu & Settings Bus
+- [ ] Dialogue Box Typewriter Effect
+- [ ] Save / Load JSON Slot
+- [ ] Damage Flash & Screen Shake
+- [ ] Object Pooling for Bullets
