@@ -1,0 +1,28 @@
+[gd_scene load_steps=3 format=3 uid="uid://ch0m14tv2mkpt"]
+
+[ext_resource type="Texture2D" uid="uid://bpikdaw3vwed2" path="res://mechanics/02_inventory_grid/assets/inventory-slot.png" id="1_11ga7"]
+[ext_resource type="Script" uid="uid://p5vrc2jywxh5" path="res://mechanics/02_inventory_grid/inventory/inventory_ui_slot.gd" id="1_hj3ni"]
+
+[node name="InventoryUI_Slot" type="Panel"]
+self_modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(16, 16)
+offset_right = 16.0
+offset_bottom = 16.0
+script = ExtResource("1_hj3ni")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_11ga7")
+centered = false
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+custom_minimum_size = Vector2(16, 16)
+layout_mode = 0
+offset_right = 16.0
+offset_bottom = 16.0
+
+[node name="Panel" type="Panel" parent="CenterContainer"]
+layout_mode = 2
+
+[node name="ItemDisplay" type="Sprite2D" parent="CenterContainer/Panel"]
+unique_name_in_owner = true
