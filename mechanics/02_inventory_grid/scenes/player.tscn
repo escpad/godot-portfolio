@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=3 uid="uid://moqqg6648n4n"]
+[gd_scene load_steps=17 format=3 uid="uid://cn7k8ua1y6a18"]
 
 [ext_resource type="Script" uid="uid://vqqx28e5k8mk" path="res://mechanics/02_inventory_grid/scenes/player.gd" id="1_0lfgh"]
 [ext_resource type="Texture2D" uid="uid://ry8wvbx4elyd" path="res://mechanics/01_parallax/assets/Soldier.png" id="1_ncrqt"]

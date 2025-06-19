@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://cjpin8omot05y"]
+
+[ext_resource type="PackedScene" uid="uid://cn7k8ua1y6a18" path="res://mechanics/02_inventory_grid/scenes/player.tscn" id="1_rr5ty"]
+[ext_resource type="Resource" uid="uid://dgpvp0y81ho0y" path="res://mechanics/02_inventory_grid/inventory/player_inventory.tres" id="2_5af42"]
+[ext_resource type="PackedScene" uid="uid://bru1rrgwhx2t5" path="res://mechanics/02_inventory_grid/inventory/inventory_ui.tscn" id="3_nqblq"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_rr5ty")]
+position = Vector2(155, 97)
+inv = ExtResource("2_5af42")
+
+[node name="InventoryUI" parent="Player" instance=ExtResource("3_nqblq")]
+offset_left = -31.0
+offset_top = -75.0
+offset_right = 31.0
+offset_bottom = -15.0
