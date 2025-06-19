@@ -14,7 +14,7 @@ func update_slots():
 		slots[i].update(inv.items[i])
 	
 	
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	if Input.is_action_just_pressed("e"):
 		print("e")
 		if is_open:
