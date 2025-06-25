@@ -5,12 +5,17 @@
 Implement a simple parallax effect using Godot's built in node
 
 ## Implementation Highlights
-- Everything regarding parallax was all done with nodes
-- Very simple player movement using move_and_slide() to showcase the parallax effect
+- Utilizing `ParallaxBackground` paired with multiple `ParallaxLayer` to create the 2D parallax effect by adjusting each layer to scroll at different speeds.
+- Created simple player movement using move_and_slide() to showcase the parallax effect.
 
 ## What I Learned
-- How to properly use ParallaxBackground and Parallax2D together
-- Using pixel assets and getting into the workflow of making them render properly
+- How to properly use `ParallaxBackground` and `Parallax2D` together in order to make distance look realistic.
+- Importing assets and getting into the workflow of making them render properly.
 
 ## Time Spent
-45 minutes
+| Task                    | Hours |
+|-------------------------|------:|
+| Creating boilerplate player controller | 0.5 |
+| Gathering resources online | 0.5 |
+| Setting up parallax layers | 0.5 |
+| **Total**               | **1.5 h** |

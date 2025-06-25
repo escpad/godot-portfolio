@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://isgitu86tiiw"]
+
+[ext_resource type="Script" uid="uid://dx2pgnj2c3ik6" path="res://mechanics/03_click_to_move/assets/explosion.gd" id="1_wgx4o"]
+
+[sub_resource type="Curve" id="Curve_pmxd1"]
+_data = [Vector2(0, 0.764045), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[node name="explosion" type="CPUParticles2D"]
+emitting = false
+amount = 24
+lifetime = 0.5
+one_shot = true
+explosiveness = 1.0
+spread = 180.0
+gravity = Vector2(0, 0)
+initial_velocity_min = 39.9
+initial_velocity_max = 70.21
+scale_amount_min = 2.0
+scale_amount_max = 3.0
+scale_amount_curve = SubResource("Curve_pmxd1")
+color = Color(0.0313726, 0.984314, 0.27451, 1)
+script = ExtResource("1_wgx4o")
