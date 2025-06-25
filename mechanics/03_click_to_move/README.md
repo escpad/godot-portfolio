@@ -1,15 +1,11 @@
 # [Click-to-Move] – Week [3] Dev-Log
 
-<<<<<<< HEAD:mechanics/03_click_to_move/README.md
 ![Top-down view, debug off](docs/click_to_move.gif)\
 (With debug off)\
 ![Pathfinding debug overlay](docs/click_to_move_debug.gif)\
-=======
-![Top-down view, debug off](click_to_move.gif)\
-(With debug off)\
-![Pathfinding debug overlay](click_to_move_debug.gif)\
->>>>>>> 002dd40a0a0b8484b7ebb6a5bd0d2d6d6d20f9dd:mechanics/03_click_to_move/docs/README.md
 (With debug on)
+
+
 
 ## Goal
 Move the player to a clicked location using `NavigationAgent2D`.
