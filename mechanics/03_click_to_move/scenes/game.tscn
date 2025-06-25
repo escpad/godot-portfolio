@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://d0emkwmm5ruyw" path="res://mechanics/03_click_to_move/assets/Dirt - simplified.png" id="1_bfbqw"]
 [ext_resource type="Texture2D" uid="uid://b4xbeo0onxbae" path="res://mechanics/03_click_to_move/assets/Winter - simplified.png" id="1_ikq3d"]
 [ext_resource type="Script" uid="uid://brcly8a04cd02" path="res://mechanics/03_click_to_move/scripts/player.gd" id="4_v6dao"]
-[ext_resource type="PackedScene" uid="uid://btynomh53y5ox" path="res://player.tscn" id="6_ptjdr"]
+[ext_resource type="PackedScene" uid="uid://btynomh53y5ox" path="res://mechanics/03_click_to_move/scenes/player.tscn" id="6_ptjdr"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_v6dao"]
 texture = ExtResource("1_bfbqw")

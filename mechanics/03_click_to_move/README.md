@@ -1,19 +1,21 @@
 # [Click-to-Move] – Week [3] Dev-Log
-![Demo](docs/click_to_move.gif)\
-(With debug navigation off)\
-![Demo](docs/click_to_move_debug.gif)\
-(With debug navigation on)
+
+![Top-down view, debug off](docs/click_to_move.gif)\
+(With debug off)\
+![Pathfinding debug overlay](docs/click_to_move_debug.gif)\
+(With debug on)
 
 ## Goal
-Move the player to a clicked location using NavigationAgent2D
+Move the player to a clicked location using `NavigationAgent2D`.
 
-Checklist:\
- [x] Setup nav region and tilemap\
- [x] Add NavigationAgent2D\
- [ ] Draw path from click to destination\
- [x] Walk path\
- [x] Arrival and idle state\
- [x] Add clicked location indicator\
+### Checklist
+- [x] Setup nav region and tilemap  
+- [x] Add `NavigationAgent2D`  
+- [ ] Draw path from click to destination  
+- [x] Walk path  
+- [x] Arrival and idle state  
+- [x] Add clicked-location indicator
+
 
 ## Implementation Highlights
 - **NavigationAgent2D path-driven movement** – one line sets `agent.target_position`, letting Godot’s navigation handle A* and waypoint following.
