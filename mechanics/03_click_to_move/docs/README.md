@@ -1,7 +1,7 @@
 # [Click-to-Move] – Week [3] Dev-Log
-![Demo](docs/click-to-move.gif)\
+![Demo](docs/click_to_move.gif)\
 (With debug navigation off)\
-![Demo](docs/click-to-move-debug.gif)\
+![Demo](docs/click_to_move_debug.gif)\
 (With debug navigation on)
 
 ## Goal
